@@ -18,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="483">
+              <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -28,7 +28,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="8421">
               <caret line="401" column="25" lean-forward="false" selection-start-line="401" selection-start-column="25" selection-end-line="401" selection-end-column="25" />
               <folding>
                 <marker date="1521547795331" expanded="true" signature="8181:8184" ph="{...}" />
@@ -146,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,6 +174,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -302,7 +302,8 @@
       <workItem from="1521533106284" duration="8816000" />
       <workItem from="1521547477916" duration="408000" />
       <workItem from="1521557989445" duration="1221000" />
-      <workItem from="1521576305970" duration="155000" />
+      <workItem from="1521576305970" duration="747000" />
+      <workItem from="1521587974915" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored files. Added the 'About' section. &#10;Refactored header and footer.">
       <created>1521296750789</created>
@@ -451,11 +452,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521576453180</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Updated link for Read More button in About section of home page.">
+      <created>1521588021854</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1521588021854</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47526000" />
+    <option name="totallyTimeSpent" value="48190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -506,7 +514,8 @@
     <MESSAGE value="Made dropdown button smaller for phones." />
     <MESSAGE value="Added meta in head for responsive design.&#10;Hopefully this will fix the problem where some pages do not adjust to phone screen size." />
     <MESSAGE value="Removed eta from the other pages. Did more harm than good..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed eta from the other pages. Did more harm than good..." />
+    <MESSAGE value="Updated link for Read More button in About section of home page." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated link for Read More button in About section of home page." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -905,7 +914,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
+        <state relative-caret-position="8421">
           <caret line="401" column="25" lean-forward="false" selection-start-line="401" selection-start-column="25" selection-end-line="401" selection-end-column="25" />
           <folding>
             <marker date="1521547795331" expanded="true" signature="8181:8184" ph="{...}" />
@@ -949,8 +958,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="483">
+          <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
           <folding />
         </state>
       </provider>
