@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e46d71d-2d7c-492b-b52c-bf11be91b188" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="9e46d71d-2d7c-492b-b52c-bf11be91b188" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +15,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -27,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="363" column="23" lean-forward="true" selection-start-line="363" selection-start-column="23" selection-end-line="363" selection-end-column="23" />
+            <state relative-caret-position="154">
+              <caret line="426" column="0" lean-forward="true" selection-start-line="426" selection-start-column="0" selection-end-line="426" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,12 +108,12 @@
       <list>
         <option value="$PROJECT_DIR$/FileCSS.css" />
         <option value="$PROJECT_DIR$/FileHtml.html" />
-        <option value="$PROJECT_DIR$/styles/style.css" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/courses.html" />
         <option value="$PROJECT_DIR$/GradeStatistics.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles/style.css" />
       </list>
     </option>
   </component>
@@ -181,6 +179,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/BOGDAN/Facultate/Tehnologii Web/Proiect Web/ProiectWeb/index.html" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -298,7 +297,7 @@
       <workItem from="1521473634717" duration="15115000" />
       <workItem from="1521494414380" duration="255000" />
       <workItem from="1521531904295" duration="59000" />
-      <workItem from="1521533106284" duration="4472000" />
+      <workItem from="1521533106284" duration="7024000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored files. Added the 'About' section. &#10;Refactored header and footer.">
       <created>1521296750789</created>
@@ -412,11 +411,25 @@
       <option name="project" value="LOCAL" />
       <updated>1521538715720</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Fixed header for phone sized screens.">
+      <created>1521539735937</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1521539735937</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Resized Home page for phones screens.">
+      <created>1521541347198</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1521541347198</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41398000" />
+    <option name="totallyTimeSpent" value="43950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -462,7 +475,9 @@
     <MESSAGE value="Fixed dropdown. Looks much better now, and dropdown button &#10;doesn't run away anymore." />
     <MESSAGE value="Forgot to fix dropdown in the other pages.&#10;Fixed now!" />
     <MESSAGE value="Fixed dropdown. Looks much better now, and dropdown button doesn't run away." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed dropdown. Looks much better now, and dropdown button doesn't run away." />
+    <MESSAGE value="Fixed header for phone sized screens." />
+    <MESSAGE value="Resized Home page for phones screens." />
+    <option name="LAST_COMMIT_MESSAGE" value="Resized Home page for phones screens." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -781,18 +796,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="363" column="23" lean-forward="true" selection-start-line="363" selection-start-column="23" selection-end-line="363" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="426" column="0" lean-forward="true" selection-start-line="426" selection-start-column="0" selection-end-line="426" selection-end-column="0" />
           <folding />
         </state>
       </provider>
